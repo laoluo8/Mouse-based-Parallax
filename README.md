@@ -1,4 +1,5 @@
-# A cool mouse based parallax
+# A cool mouse based parallax sunset
+*A PEN BY Adam Quinlan*
 - a vanilla javascript project
 - a great start
 
